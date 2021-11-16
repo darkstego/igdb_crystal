@@ -1,0 +1,9 @@
+name: igdb
+version: 4.0.0
+
+authors:
+  - Abdulla Bubshait <darkstego@gmail.com>
+
+crystal: 1.2.1
+
+license: MIT
